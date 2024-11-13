@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+#body{
+	min-width: 1400px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
 /***** section01 *****/
 #section01{
 	height: 100vh;
